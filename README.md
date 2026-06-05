@@ -147,7 +147,8 @@ endmodule
 
 simulation & results ouput 
 ![Screenshot](Screenshot_20260605-182659-Gallery.png)
-
+Timing waveforms
+![Chrome Screenshot](Screenshot_20260602-192952_chrome.png)
 ## 🛠️ How to Run
 1. Open [EDA Playground](https://edaplayground.com).
 2. Set the top-level tool to **Icarus Verilog**.
