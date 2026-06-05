@@ -146,7 +146,7 @@ module tb_seven_seg_driver;
 endmodule
 
 simulation & results ouput 
-
+![Screenshot](Screenshot_20260605-182659-Gallery.png)
 
 ## 🛠️ How to Run
 1. Open [EDA Playground](https://edaplayground.com).
